@@ -21,10 +21,10 @@ git clone https://github.com/your-username/telegram-chat-gpt-bot.git
 - Add the following lines to the `config.py` file:
   ```python
   # Chat GPT API
-  CHAT_GPT_API_KEY = "YOUR_CHAT_GPT_API_KEY"
+  api_key = "YOUR_CHAT_GPT_API_KEY"
 
   # Telegram Bot API
-  TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+  telegram_token = "YOUR_TELEGRAM_BOT_TOKEN"
   ```
 
 - Replace `YOUR_CHAT_GPT_API_KEY` with your actual Chat GPT API key.
@@ -53,9 +53,9 @@ The repository is organized as follows:
 
 ## License
  **Author: Prince Kakkad
- Copyright 2020-2023 Princekakkad.tech, Inc.
- Copyright reserved by princekakkad.tech
- Commercial use is prohibited without permission.
+ **Copyright 2020-2023 Princekakkad.tech, Inc.
+ **Copyright reserved by princekakkad.tech
+ **Commercial use is prohibited without permission.
 
  
 Please note that commercial use of this code is strictly prohibited without permission.
