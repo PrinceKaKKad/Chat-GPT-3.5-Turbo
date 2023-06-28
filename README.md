@@ -52,7 +52,7 @@ The repository is organized as follows:
 - `main.py`: Main script that initializes and runs the Telegram Chat GPT Bot.
 
 ## License
- Author: Prince Kakkad
+ **Author: Prince Kakkad
  Copyright 2020-2023 Princekakkad.tech, Inc.
  Copyright reserved by princekakkad.tech
  Commercial use is prohibited without permission.
