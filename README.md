@@ -16,9 +16,8 @@ git clone https://github.com/PrinceKaKKad/Chat-GPT-3.5-Turbo.git
 3. Navigate to the project directory:
    - cd Chat-GPT-3.5-Turbo-main
 
-4. Create a `config.py` file:
-- Create a new file named `config.py`.
-- Add the following lines to the `config.py` file:
+4. Go to `config.py` file:
+- Change the following lines to the `config.py` file:
   ```python
   # Chat GPT API
   api_key = "YOUR_CHAT_GPT_API_KEY"
@@ -30,8 +29,8 @@ git clone https://github.com/PrinceKaKKad/Chat-GPT-3.5-Turbo.git
 - Replace `YOUR_CHAT_GPT_API_KEY` with your actual Chat GPT API key.
 - Replace `YOUR_TELEGRAM_BOT_TOKEN` with your actual Telegram Bot API token.
 
-5. Set up log files:
-- Create three log files: `chat_id.log`, `conversation.log`, and `error.log`.
+5. log files:
+- Log files: `chat_id.log`, `conversation.log`, and `error.log`.
 - These files will store the chat IDs, conversation history, and error logs, respectively.
 
 6. Run the bot:
