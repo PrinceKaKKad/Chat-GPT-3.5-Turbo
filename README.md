@@ -53,7 +53,11 @@ The repository is organized as follows:
 
 ## License
  Author: Prince Kakkad
+ ---
  Copyright 2020-2023 Princekakkad.tech, Inc.
+ ---
  Copyright reserved by princekakkad.tech
+ ---
  
  Commercial use is prohibited without permission.
+ ---
