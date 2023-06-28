@@ -11,7 +11,7 @@ To use the Telegram Chat GPT Bot, follow the steps below:
    - **Telegram Bot API**: Create a bot using [BotFather](https://telegram.me/BotFather) on Telegram to obtain the API token.
 
 2. Clone the repository:
-git clone https://github.com/your-username/telegram-chat-gpt-bot.git
+git clone https://github.com/PrinceKaKKad/Chat-GPT-3.5-Turbo.git
 
 3. Navigate to the project directory:
    - cd telegram-chat-gpt-bot
