@@ -1,8 +1,8 @@
 import pyfiglet
 
 # OpenAI Api key and telegram token
-api_key = "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"
-telegram_token = "5962841735:AAGou6LgH3wX1JTdbunvpJ2xotyHkGj_jjk"
+api_key = "OPENAI_API_KEY"
+telegram_token = "TELEGRAM_TOKEN"
 
 
 # GPT MODEL
