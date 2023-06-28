@@ -14,7 +14,7 @@ To use the Telegram Chat GPT Bot, follow the steps below:
 git clone https://github.com/your-username/telegram-chat-gpt-bot.git
 
 3. Navigate to the project directory:
-cd telegram-chat-gpt-bot
+   - cd telegram-chat-gpt-bot
 
 4. Create a `config.py` file:
 - Create a new file named `config.py`.
@@ -35,3 +35,25 @@ cd telegram-chat-gpt-bot
 - These files will store the chat IDs, conversation history, and error logs, respectively.
 
 6. Run the bot:
+- python main.py
+
+  
+## Code Map
+
+The repository is organized as follows:
+
+- `__log__`: Directory to store log files.
+- `chat_id.log`: Stores the chat IDs of users who have communicated with the bot.
+- `conversation.log`: Stores the conversation history between users and the bot.
+- `error.log`: Stores any errors encountered during bot operation.
+
+- `config.py`: Configuration file that holds the API keys.
+
+- `main.py`: Main script that initializes and runs the Telegram Chat GPT Bot.
+
+## License
+- Author: Prince Kakkad
+- Copyright 2020-2023 Princekakkad.tech, Inc.
+- Copyright reserved by princekakkad.tech
+- 
+- Commercial use is prohibited without permission.
