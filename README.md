@@ -14,7 +14,7 @@ To use the Telegram Chat GPT Bot, follow the steps below:
 git clone https://github.com/PrinceKaKKad/Chat-GPT-3.5-Turbo.git
 
 3. Navigate to the project directory:
-   - cd telegram-chat-gpt-bot
+   - cd Chat-GPT-3.5-Turbo-main
 
 4. Create a `config.py` file:
 - Create a new file named `config.py`.
