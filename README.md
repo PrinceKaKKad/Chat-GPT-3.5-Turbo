@@ -63,5 +63,5 @@ The repository is organized as follows:
  
 Please note that commercial use of this code is strictly prohibited without permission.
 
-For any inquiries or requests, please contact [contact-us@princekakkad.tech](mailto:contact-us@princekakkad.tech).
+For any inquiries or requests, please contact [info@princekakkad.tech](mailto:info@princekakkad.tech).
 
